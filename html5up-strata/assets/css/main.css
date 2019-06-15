@@ -2624,7 +2624,7 @@ input, select, textarea {
 		}
 
 		#header strong, #header b {
-			color: #ffffff;
+			color: #f7af79;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
@@ -2636,6 +2636,10 @@ input, select, textarea {
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
+		}
+
+		#header .inner h1 p {
+			color: #3d2901;
 		}
 
 		#header .image.avatar {
